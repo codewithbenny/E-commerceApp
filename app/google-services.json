@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063074583846",
+    "firebase_url": "https://shoping-4cb65.firebaseio.com",
+    "project_id": "shoping-4cb65",
+    "storage_bucket": "shoping-4cb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063074583846:android:de03eb0790e8baa6479de7",
+        "android_client_info": {
+          "package_name": "com.india.shoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063074583846-ts98ht8hghuti5jp7g8fkb3hu8g9aeca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.india.shoping",
+            "certificate_hash": "cea4d44d2b43b8fda463881dcdd2f998626d6325"
+          }
+        },
+        {
+          "client_id": "1063074583846-a4dccf4bcmohs7th7i3obosvea77gr31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6rpo2Ta3ZTuo_Qx3IkTrUmlp8Q1rAYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063074583846-a4dccf4bcmohs7th7i3obosvea77gr31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
